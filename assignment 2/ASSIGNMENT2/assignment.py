@@ -18,4 +18,4 @@ for worker, task in assignment:
 print(f"Worker {worker} assigned to Task {task}")
 print("Total cost:", total_cost)
 if name == " main ": 
-main()
+/workspaces/python/lab 2main()
